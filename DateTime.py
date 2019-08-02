@@ -12,4 +12,7 @@ The datetime classes in Python are categorized into main 5 classes.
 .datetime - Combination of time and date
 .timedelta - A duration of time used for manipulating dates
 .tzinfo - An abstract class for dealing with time zones
+
+https://www.programiz.com/python-programming/datetime
+
 """
